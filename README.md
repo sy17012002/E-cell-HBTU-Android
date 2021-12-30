@@ -36,5 +36,8 @@ Installing:-<br>
 <li>Install the apk onto an Android device using Android Studio</li>
 </ul>
 <br>
-Developer:-<b>SUNNY YADAV</b>
+Developer:-<b>SUNNY YADAV</b><br>
+<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
